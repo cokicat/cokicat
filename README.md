@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/cokicat/cokicat/refs/heads/main/alien_cat.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cokicat/cokicat/refs/heads/main/alien_cat.gif" width="150">
+</div>
+
+<img src="alien-cat.gif" style="height: 30px;">
+
+<p style="font-size: 30px;">test</p>
 
 <h1 align="center">𝐜𝐨𝐤𝐢𝐜𝐚𝐭</h1>
 <br>
