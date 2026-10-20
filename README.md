@@ -1,4 +1,4 @@
-![alien](https://raw.githubusercontent.com/cokicat/cokicat/refs/heads/main/alien_cat.gif)
+<img src="https://raw.githubusercontent.com/cokicat/cokicat/refs/heads/main/alien_cat.gif">
 
 <h1 align="center">𝐜𝐨𝐤𝐢𝐜𝐚𝐭</h1>
 <br>
