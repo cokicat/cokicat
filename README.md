@@ -17,7 +17,6 @@
   <img src="banner.gif" width="30">
 </div>
 <br>
-<br>
   
 <h2 align="center">stuff i use :</h2>
 
@@ -25,15 +24,6 @@
 <p align="center"><b>• 📜 editor</b>: <a href="https://zed.dev/">Zed</a>, Vim</p>
 <p align="center"><b>• 🖵 wm:</b> niri, labwc, bspwm, ...</p>
 
-<br>
-<div align="center">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-</div>
-<br>
 <br>
   
 
@@ -44,14 +34,6 @@
 <p align="center"><b>• 💩 Java: </b>learning at school</p>
 <p align="center"><b>• 🧀 JavaScript: </b>beginner</p>
 
-<br>
-<div align="center">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-  <img src="banner.gif" width="30">
-</div>
 <br>
 <br>
 
